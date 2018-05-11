@@ -20,7 +20,9 @@ Fabian Stehle - AWS Developer & Consultant - [CV](cv.fstehle.com)
 
 Hannes Schluchtmannn - Frontend developer - [website](https://hannesschluchtmann.com/)
 
-Jens Umland - SEO Consultant - [website](http://jumland.de/)
+Oliver Lorenz - node.js developer - [xing](https://www.xing.com/profile/Oliver_Lorenz29/cv)
+
+Andreea Dobrin Dinu - Illustration and Design - [website](http://summerkidworks.com/)
 
 ## Reasoning
 
